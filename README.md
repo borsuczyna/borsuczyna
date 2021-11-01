@@ -8,7 +8,7 @@
 
 📫 DM me on discord borsuk#9104 if you need something
 
-Have a nice day like a never before! 💞️💞️
+Have a nice day like never before! 💞️💞️
 
 <!---
 borsuczyna/borsuczyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
