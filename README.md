@@ -6,7 +6,7 @@
 
 💞️ I’m working on 2D hand-drawn art style point and click story game!
 
-📫 DM me on discord borsuk#7954 if you need something
+📫 DM me on discord borsuk#2115 if you need something
 
 Have a nice day like never before! 💞️💞️
 
