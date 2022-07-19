@@ -9,5 +9,5 @@ I'm borsuk, Junior Fullstack Developer!
  ![test](https://github-readme-stats.vercel.app/api?username=borsuczyna&theme=dark&hide_border=1)
  
  ## Contact me
- Email: libxxerty@gmail.com
+ Email: libxxerty@gmail.com<br>
  Discord: borsuk#2115
