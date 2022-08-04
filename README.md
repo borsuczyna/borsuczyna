@@ -7,7 +7,7 @@ I'm borsuk, Junior Fullstack Developer!<br>Started my coding journey at the age 
 ## Github stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borsuczyna&hide=lua,c&theme=dark&hide_border=1)  
  ![Stats](https://github-readme-stats.vercel.app/api?username=borsuczyna&theme=dark&hide_border=1)
- ![Badges](https://github-profile-trophy.vercel.app/?username=borsuczyna)
+ ![Badges](https://github-profile-trophy.vercel.app/?username=borsuczyna&theme=onedark)
  
  ## Contact me
  Email: libxxerty@gmail.com<br>
