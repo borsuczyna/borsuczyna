@@ -11,6 +11,4 @@ I'm borsuk, Junior Fullstack Developer!<br>Started my coding journey at the age 
  
  ## Contact me
  Email: libxxerty@gmail.com<br>
- Discord: borsuk#2115
-
- 🙍 Ernest Skorupski
+ Discord: borsuk#2115 
